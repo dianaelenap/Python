@@ -54,4 +54,4 @@ if __name__ == "__main__":
             lista_cumparaturi.append(p)
 
     for x in lista_cumparaturi:
-        print("Pentru %s trebuie cumparat %d " % (x.name,x.quantity))
+        print("Pentru %s trebuie cumparat %d bucati" % (x.name,x.quantity))
