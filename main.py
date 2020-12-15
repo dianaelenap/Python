@@ -1,7 +1,7 @@
 from produs import Product
 import sqlite3
 
-conn = sqlite3.connect('Python/produse.db')
+conn = sqlite3.connect('produse.db')
 
 c = conn.cursor()
 
