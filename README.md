@@ -1,2 +1,2 @@
 # Python
-Proiect Python
+Proiect Python C10
